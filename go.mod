@@ -1,0 +1,3 @@
+module github.com/helm
+
+go 1.22
