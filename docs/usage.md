@@ -9,3 +9,4 @@ Notes and usage details for helm.
 - clarify the setup steps
 - clarify the setup steps
 - link the usage section
+- fix a small wording issue
